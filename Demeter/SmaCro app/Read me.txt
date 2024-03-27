@@ -1,0 +1,1 @@
+This app is made using mit app inventor. it has weather prediction, maps, protection, image processing and live monitering and controlling operations.
